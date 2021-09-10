@@ -27,9 +27,9 @@ To fix a bug or enhance an existing module, follow these steps:
 ## Mobile support
 <p>The WebApp is compatible with devices of all sizes and consistent improvements are being made.</p>
 
-<img src="https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/home_mobile_support.jpeg" width="300" height="500"><addr>
-<img src="https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/about_mobile_supprt.jpeg" width="300" height="500"><addr>
-<img src="https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/service_mobile_support.jpeg" width="300" height="500">
+<img src="https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/home_mobile_support.jpeg" width="310" height="500"><addr>
+<img src="https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/about_mobile_supprt.jpeg" width="310" height="500"><addr>
+<img src="https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/service_mobile_support.jpeg" width="310" height="500">
  
  I think you should use an
 <addr> element here instead.
