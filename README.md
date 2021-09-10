@@ -3,15 +3,15 @@
 
 ## Demo
 Here is a working live demo :  https://vermaatul9565.github.io/HTML-CSS-project/index.html
-### Home Page
+## Home Page
 Welcome to home page !!
 # ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/home_page_shot.png)
-### About page
+## About page
 # ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/901c2b742a1568275990e735bb9712fea3f5c3ff/screenshots/about_shot.png)
-### Services page
+## Services page
 # ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/901c2b742a1568275990e735bb9712fea3f5c3ff/screenshots/services_shot.png)
 
-### Development
+## Development
 Want to contribute? Great!
 
 To fix a bug or enhance an existing module, follow these steps:
