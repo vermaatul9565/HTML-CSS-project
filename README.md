@@ -3,12 +3,30 @@
 
 ## Demo
 Here is a working live demo :  https://vermaatul9565.github.io/HTML-CSS-project/index.html
-### Landing Page
-# ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/206abec1218dd107d1b972c64cc45c0b790ad4ea/home_page_shot.png)
+### Home Page
+
+# ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/home_page_shot.png)
 ### About page
-# ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/e8a7ae24725a6f169276de8680e95ec237a4a984/about_shot.png)
+# ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/e8a7ae24725a6f169276de8680e95ec237a4a984/screenshots/about_shot.png)
 ### Services page
-# ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/e8a7ae24725a6f169276de8680e95ec237a4a984/services_shot.png)
+# ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/e8a7ae24725a6f169276de8680e95ec237a4a984/screenshots/services_shot.png)
 
+### Development
+Want to contribute? Great!
 
+To fix a bug or enhance an existing module, follow these steps:
+
+- Fork the repo
+- Create a new branch (`git checkout -b improve-feature`)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (`git commit -am 'Improve feature'`)
+- Push to the branch (`git push origin improve-feature`)
+- Create a Pull Request 
+
+## Mobile support
+The WebApp is compatible with devices of all sizes and consistent improvements are being made.
+## ![](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/home_mobile_support.jpeg) 
+## ![](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/about_mobile_supprt.jpeg) 
+## ![](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/service_mobile_support.jpeg)
 
