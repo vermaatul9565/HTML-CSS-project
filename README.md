@@ -27,9 +27,9 @@ To fix a bug or enhance an existing module, follow these steps:
 ## Mobile support
 The WebApp is compatible with devices of all sizes and consistent improvements are being made.
 
-## ![](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/home_mobile_support.jpeg) 
-## ![](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/about_mobile_supprt.jpeg) 
-## ![](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/service_mobile_support.jpeg)
+ ![](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/home_mobile_support.jpeg) 
+ ![](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/about_mobile_supprt.jpeg) 
+ ![](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/service_mobile_support.jpeg)
 
 ## Feature
 ### i. The feature of our website is as follows :
