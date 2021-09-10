@@ -7,9 +7,9 @@ Here is a working live demo :  https://vermaatul9565.github.io/HTML-CSS-project/
 
 # ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/home_page_shot.png)
 ### About page
-# ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/e8a7ae24725a6f169276de8680e95ec237a4a984/screenshots/about_shot.png)
+# ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/901c2b742a1568275990e735bb9712fea3f5c3ff/screenshots/about_shot.png)
 ### Services page
-# ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/e8a7ae24725a6f169276de8680e95ec237a4a984/screenshots/services_shot.png)
+# ![HTML-CSS-project](https://github.com/vermaatul9565/HTML-CSS-project/blob/901c2b742a1568275990e735bb9712fea3f5c3ff/screenshots/services_shot.png)
 
 ### Development
 Want to contribute? Great!
