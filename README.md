@@ -31,4 +31,3 @@ The WebApp is compatible with devices of all sizes and consistent improvements a
 ## ![](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/about_mobile_supprt.jpeg) 
 ## ![](https://github.com/vermaatul9565/HTML-CSS-project/blob/5e16d26291c71c5bb6efc10a0d40db900502c577/screenshots/service_mobile_support.jpeg)
 
-<img scr="https://github.com/vermaatul9565/HTML-CSS-project/blob/901c2b742a1568275990e735bb9712fea3f5c3ff/screenshots/services_shot.png" alt="image no found">
